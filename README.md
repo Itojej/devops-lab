@@ -1,5 +1,4 @@
 # DevOps Lab
-Thisi repository is my personal DevOps learning lab
 This repository is my personal DevOps learning lab
 ## what's inside
 - Hands-on practice with Docker, git, CI/CD, and Cloud tools
